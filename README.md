@@ -46,8 +46,3 @@ Contributions to the MEM_EnableWOL repository are welcome. Please ensure that an
 
 This project is licensed under the MIT License.
 
----
-
-Please note that this is a general
-
-template and may need to be adjusted based on the specifics of the scripts and the repository's requirements.
